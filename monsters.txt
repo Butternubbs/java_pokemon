@@ -1,0 +1,1 @@
+Bulbasaur grass poison 45 49 49 65 65 45 Tackle Growl Vine_Whip Poison_Powder 10
